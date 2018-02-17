@@ -1,0 +1,1 @@
+decoder_test_data = test_data(:,[1:30, 241:270]);
